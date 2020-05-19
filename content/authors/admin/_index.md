@@ -42,6 +42,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/zachary-george-ab058b172/
+  #- icon: google-scholar
+ #  icon_pack: ai
+ #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/zaxary
