@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Zachary George is currently a student at University of Illinois at Urbana Champaign. Intrigued by coding at a young age he constructed his own web browser called RazerFast using Visual Basic in middle school. Additionally, he has multiple applications on the google play store netting thousands of downloads, his most famous one Motivational Balloon which motivates people with their New Year's Resolution. After self learning Java, NodeJS, C++ and many more he found himself intrigued to learn much more by top professors in UIUC.
+Zachary George is currently a student at University of Illinois at Urbana Champaign. Intrigued by coding at a young age he constructed his own web browser called RazerFast using Visual Basic in middle school. Additionally, he has multiple applications on the Google Play Store netting thousands of downloads, his most famous one Motivational Balloon which motivates people with their New Year's Resolution. After self learning Java, NodeJS, C++ and many more he found himself intrigued to learn much more by top professors in UIUC.
