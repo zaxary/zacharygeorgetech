@@ -15,7 +15,7 @@ role: Student @ UIUC intrigued by the future of technology.
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Urbana-Champaign
-  url: "illinois.edu"
+  link: https://wwww.illinois.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: Intrigued by the future of technology.
