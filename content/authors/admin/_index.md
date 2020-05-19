@@ -15,7 +15,7 @@ role: Student @ UIUC intrigued by the future of technology.
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Urbana-Champaign
-  url: "https://wwww.illinois.edu"
+  url: "https://www.illinois.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Intrigued by the future of technology.
@@ -50,7 +50,7 @@ social:
   link: https://github.com/zaxary
 - icon: file
   icon_pack: fas
-  link: https://www.zacharygeorge.tech
+  link: https://zacharygeorge.netlify.app/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
