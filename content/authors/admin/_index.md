@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Feel free to reach out at contact@zacharygeorge.tech
+role: Feel free to reach out at "contact@zacharygeorge.tech"
 
 # Organizations/Affiliations
 organizations:
