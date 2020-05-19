@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Feel free to reach out at "contact@zacharygeorge.tech"
+role: Feel free to reach out at contact@zacharygeorge.tech
 
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Urbana-Champaign
-  url: "https://www.illinois.edu"
+  #url: "https://www.illinois.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Intrigued by the future of technology.
@@ -68,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-[Enter Name] is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zachary George is currently a student at University of Illinois at Urbana Champaign. Intrigued by coding at a young age he constructed his own web browser called RazerFast using Visual Basic in middle school. Additionally, he has multiple applications on the google play store netting thousands of downloads, his most famous one Motivational Balloon which motivates people with their New Year's Resolution. After self learning Java, NodeJS, C++ and many more he found himself intrigued to learn much more by top professors in UIUC.
