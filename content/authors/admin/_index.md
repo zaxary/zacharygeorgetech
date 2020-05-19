@@ -36,18 +36,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:contact@zacharygeorge.tech
+- icon: github
+  icon_pack: fab
+  link: https://github.com/zaxary
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/zachary-george-ab058b172/
 - icon: google-scholar
   icon_pack: ai
   link: zacharygeorge.tech
-- icon: github
-  icon_pack: fab
-  link: https://github.com/zaxary
+- icon: envelope
+  icon_pack: fas
+  link: mailto:contact@zacharygeorge.tech
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
