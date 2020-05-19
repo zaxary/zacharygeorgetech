@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student @ UIUC intrigued by the future of technology.
+role: Feel free to reach out at contact@zacharygeorge.tech
 
 # Organizations/Affiliations
 organizations:
@@ -23,6 +23,7 @@ bio: Intrigued by the future of technology.
 interests:
 - Artificial Intelligence
 - FPGA
+- Future Tech Advances
 - Self-Learning
 
 education:
