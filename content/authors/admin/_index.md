@@ -39,12 +39,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:contact@zacharygeorge.tech
-- icon: twitter
+- icon: linkedin-in
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/zachary-george-ab058b172/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: zacharygeorge.tech
 - icon: github
   icon_pack: fab
   link: https://github.com/zaxary
