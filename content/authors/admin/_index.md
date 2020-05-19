@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student @ UIUC intrigued by fhe future of technology.
+role: Student @ UIUC intrigued by the future of technology.
 
 # Organizations/Affiliations
 organizations:
