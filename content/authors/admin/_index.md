@@ -44,7 +44,7 @@ social:
   link: https://www.linkedin.com/in/zachary-george-ab058b172/
 - icon: google-scholar
   icon_pack: ai
-  link: zacharygeorge.tech
+  link: https://www.zacharygeorge.tech
 - icon: envelope
   icon_pack: fas
   link: mailto:contact@zacharygeorge.tech
