@@ -23,7 +23,7 @@ bio: Intrigued by the future of technology.
 interests:
 - Artificial Intelligence
 - FPGA
-- Future Tech Advances
+- Future Technological Advances
 - Self-Learning
 
 education:
