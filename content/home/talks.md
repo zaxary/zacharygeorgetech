@@ -13,17 +13,10 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
-<<<<<<< HEAD
-
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-
-=======
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
   
->>>>>>> parent of 566ec0f... deleted
   # Choose how many pages you would like to offset by
   offset = 0
 
@@ -39,11 +32,7 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-<<<<<<< HEAD
-
-=======
     
->>>>>>> parent of 566ec0f... deleted
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -51,11 +40,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-<<<<<<< HEAD
-
-=======
   
->>>>>>> parent of 566ec0f... deleted
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -64,38 +49,22 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-<<<<<<< HEAD
-
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-
-=======
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
->>>>>>> parent of 566ec0f... deleted
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-<<<<<<< HEAD
-
-[advanced]
- # Custom CSS.
- css_style = ""
-
-=======
   
 [advanced]
  # Custom CSS. 
  css_style = ""
  
->>>>>>> parent of 566ec0f... deleted
  # CSS class.
  css_class = ""
 +++
