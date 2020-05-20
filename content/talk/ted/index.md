@@ -1,7 +1,6 @@
 ---
 title: Zachary's TED Talk
-title_url: https://www.youtube.com/watch?v=IfZmO6PENF4
-event: Academic Theme Conference
+event: Click To Watch Event
 event_url: https://www.youtube.com/watch?v=IfZmO6PENF4
 
 summary: Accepted as a speaker for TEDx 2019 - 2020 year; TED talk explores my idea of an improved, more relevant school schedule benefiting students/teachers.
