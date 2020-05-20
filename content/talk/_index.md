@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header: "TED Talk"
-  caption: ""
-  image: ""
+  caption: "View Zachary's TED Talk"
+  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Imgur_logo.svg/1200px-Imgur_logo.svg.png"
 ---
