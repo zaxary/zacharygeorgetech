@@ -1,5 +1,6 @@
 ---
-title: z
+title: Zachary's TED Talk
+link: "https://www.youtube.com/watch?v=IfZmO6PENF4"
 event: Academic Theme Conference
 event_url: https://www.youtube.com/watch?v=IfZmO6PENF4
 
