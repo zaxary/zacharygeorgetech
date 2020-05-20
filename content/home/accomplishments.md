@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   title = "Introduction to Electrical Engineering"
   url = "https://www.edx.org/course/introduction-to-electrical-and-electronic-engineer"
   certificate_url = "https://bit.ly/2lMwBxU"
-  date_start = ""
-  date_end = "2019-08-03"
-  
+  date_start = "2019-08-03"
+  date_end = ""
+
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
