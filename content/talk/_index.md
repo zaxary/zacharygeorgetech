@@ -8,7 +8,7 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header: "TED Talk"
-  caption: "View Zachary's TED Talk"
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Imgur_logo.svg/1200px-Imgur_logo.svg.png"
+header: ""
+  caption: ""
+  image: ""
 ---
