@@ -2,7 +2,7 @@
 title: Helpist
 summary: Helpist is a to do list application and received a couple of positive reviews and has over 50 downloads
 tags:
-- other
+- Other
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

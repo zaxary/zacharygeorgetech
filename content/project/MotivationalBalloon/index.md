@@ -2,7 +2,7 @@
 title: Motivational Balloon
 summary: Just tap the balloon in order to get your motivational message and be motivated to accomplish your goals.
 tags:
-- other
+- Other
 date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
