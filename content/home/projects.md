@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Artificial Intelligence"
-    tag = "Artificial Intelligence"
+    name = "AI"
+    tag = "AI"
 
   [[content.filter_button]]
     name = "Other"
