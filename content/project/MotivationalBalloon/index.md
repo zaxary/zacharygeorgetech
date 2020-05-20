@@ -1,6 +1,6 @@
 ---
 title: Motivational Balloon
-summary: Just tap the balloon in order to get your motivational message and be motivated to accomplish your goals. The app was a total success after posted on New Years of 2018, receiving over 2,200+ downloads, average rating of a 4.8, and 280 reviews.
+summary: Just tap the balloon in order to get your motivational message and be motivated to accomplish your goals.
 tags:
 - other
 date: "2018-01-01T00:00:00Z"
