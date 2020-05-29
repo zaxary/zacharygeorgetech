@@ -1,7 +1,7 @@
 ---
 title: Zachary's TED Talk
 event: Click To Watch Event
-event_url: https://www.youtube.com/watch?v=IfZmO6PENF4
+event_url: https://www.ted.com/talks/zachary_george_what_if_we_restructured_the_school_calendar
 
 summary: Accepted as a speaker for TEDx 2019 - 2020 year; TED talk explores my idea of an improved, more relevant school schedule benefiting students/teachers.
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -29,7 +29,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=IfZmO6PENF4"
+url_video: "https://www.ted.com/talks/zachary_george_what_if_we_restructured_the_school_calendar"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
