@@ -30,7 +30,7 @@ education:
   courses:
   - course: BS in Electrical & Computer Engineering
     institution: University of Illinois at Urbana-Champaign
-    year: 2024
+    # year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
