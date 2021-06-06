@@ -23,12 +23,12 @@ bio: Intrigued by the future of technology.
 interests:
 - Artificial Intelligence
 - FPGA
-- Future Technological Advances
-- Self-Learning
+- Software Engineering
+- Quantiative Analysis
 
 education:
   courses:
-  - course: BS in Electrical & Computer Engineering
+  - course: BS in Electrical and Computer Engineering
     institution: University of Illinois at Urbana-Champaign
     # year: 2024
 
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Zachary George is currently a student at University of Illinois at Urbana Champaign. Intrigued by coding at a young age he constructed his own web browser called RazerFast using Visual Basic in middle school. Additionally, he has multiple applications on the Google Play Store netting thousands of downloads, his most famous one is Motivational Balloon an app which motivates people with their New Year's Resolution. After self-learning Java, NodeJS, C++ and many more he found himself intrigued to learn much more from top professors in UIUC.
+Zachary George is currently a student at University of Illinois at Urbana Champaign. Intrigued by coding at a young age he constructed his own web browser called RazerFast using Visual Basic in middle school. Additionally, he has multiple applications on the Google Play Store netting thousands of downloads, his most famous one is Motivational Balloon an app which motivates people with their New Year's Resolution. After self-learning Java, NodeJS, C++ and many more he found himself intrigued to learn much more from top professors in University of Illinois.
