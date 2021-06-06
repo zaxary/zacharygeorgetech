@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "University of Illinois at Urbana-Champaign"
+  organization_url = "https://illinois.edu/"
+  title = "College of Engineering, Dean's List"
+  #url = "https://www.edx.org/course/introduction-to-electrical-and-electronic-engineer"
+  #certificate_url = "https://bit.ly/2lMwBxU"
+  date_start = "2020-08-24"
+  date_end = ""
+  description = "Dean's List with only the top 20 percent of the semester receiving at the University of Illinois, Grainger College of Engineering."
 
 [[item]]
   organization = "University of Illinois at Urbana-Champaign"
