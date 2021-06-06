@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Introduction to Electrical Engineering"
+  organization = "University of Illinois at Urbana-Champaign"
+  organization_url = "https://illinois.edu/"
+  title = "College of Engineering, James Scholar Honors"
   #url = "https://www.edx.org/course/introduction-to-electrical-and-electronic-engineer"
   #certificate_url = "https://bit.ly/2lMwBxU"
-  date_start = "2019-08-03"
+  date_start = "2020-08-24"
   date_end = ""
-  description = "Completed Introduction to Electrical and Electronic Engineering from Tokyo Institute of Technology and received certificate based on grades from class. Final grade of a 93% in the class."
+  description = "Selective honors with only the top 15 percent of the University of Illinois, Grainger College of Engineering."
 +++
