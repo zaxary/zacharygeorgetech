@@ -51,7 +51,7 @@ social:
   link: https://github.com/zaxary
 - icon: file
   icon_pack: fas
-  link: https://zacharygeorge.netlify.app/#contact
+  link: #contact
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
